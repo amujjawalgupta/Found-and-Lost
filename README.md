@@ -19,7 +19,7 @@ It allows users to browse recently found items, search by category or keyword, a
 
 > Homepage view of the UniFound Campus Lost & Found system
 
-![UniFound Campus Lost & Found Screenshot](./screenshot.png)
+![UniFound Campus Lost & Found Screenshot](./HomePage.png)
 
 ---
 
