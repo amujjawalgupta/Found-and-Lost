@@ -15,6 +15,14 @@ It allows users to browse recently found items, search by category or keyword, a
 
 ---
 
+## 📸 Project Screenshot
+
+> Homepage view of the UniFound Campus Lost & Found system
+
+![UniFound Campus Lost & Found Screenshot](./screenshot.png)
+
+---
+
 ## 📌 Problem Statement
 
 Students frequently lose personal belongings such as ID cards, water bottles, books, and electronics on campus.  
@@ -47,53 +55,4 @@ UniFound provides a **centralized digital platform** for campus lost & found man
 - Filter by categories:
   - Electronics
   - Clothing
-  - Books / Notes
-  - Accessories
-
-### 🧾 Found Items Dashboard
-- Displays items found in the last 30 days
-- Shows location, date, and category
-- Clean card-based UI
-
-### 📝 Report Lost Item
-- Item details (name, category)
-- Date and last seen location
-- Description and identifying details
-- Private contact information
-
-### 📢 Announcements Section
-- Office updates
-- Important notices
-- Student tips
-
-### 📱 Responsive UI
-- Mobile-friendly design
-- Smooth animations
-- Modern campus-focused theme
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-- **HTML5** – Structure
-- **Tailwind CSS** – Styling & responsiveness
-- **JavaScript (Vanilla JS)** – Dynamic rendering & logic
-- **Font Awesome** – Icons
-- **Google Fonts (Poppins)** – Typography
-
-### ⚙️ Backend (Current Status)
-- ❌ No backend (Frontend-only prototype)
-- Uses **mock data** for demonstration
-
-### 🔮 Planned Backend (Future Scope)
-- **Backend:** Node.js + Express.js / Flask / FastAPI  
-- **Database:** MongoDB / PostgreSQL / Firebase  
-- **Authentication:** College email-based login  
-- **APIs:** REST APIs for items, reports, and claims  
-- **Admin Panel:** Security Office access  
-
----
-
-## 🗂️ Project Structure
-
+  - Books
